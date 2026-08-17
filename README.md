@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
+| [3099-harshad-number](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3099-harshad-number) |
 ## Divide and Conquer
 |  |
 | ------- |
