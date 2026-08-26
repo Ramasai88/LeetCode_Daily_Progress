@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [3099-harshad-number](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3099-harshad-number) |
+| [3959-check-good-integer](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3959-check-good-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3959-check-good-integer](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3959-check-good-integer) |
 <!---LeetCode Topics End-->
