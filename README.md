@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
+| [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
+| [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [3099-harshad-number](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3099-harshad-number) |
 ## Divide and Conquer
 |  |
@@ -18,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
