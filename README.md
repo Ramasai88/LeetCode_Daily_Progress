@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3959-check-good-integer](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3959-check-good-integer) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
