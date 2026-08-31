@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
