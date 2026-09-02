@@ -14,9 +14,6 @@ class Solution:
         if count_even == len(nums1):
             return True
 
-            
-            
-
         # Now dealing with odd elements in the array
         for i in range(len(nums1)):
             if nums1[i] % 2 == 0 or nums1[i] % 2 != 0:
