@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0067-add-binary) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [3099-harshad-number](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3099-harshad-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3875-construct-uniform-parity-array-i) |
 | [3959-check-good-integer](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3959-check-good-integer) |
 ## Divide and Conquer
 |  |
