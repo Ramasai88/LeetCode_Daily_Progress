@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0326-power-of-three) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
