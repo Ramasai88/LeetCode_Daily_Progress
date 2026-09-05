@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0136-single-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0476-number-complement) |
 ## Hash Table
