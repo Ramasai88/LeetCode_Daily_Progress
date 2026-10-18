@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/0326-power-of-three) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [3099-harshad-number](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3099-harshad-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
