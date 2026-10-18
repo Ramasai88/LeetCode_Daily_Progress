@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1512-number-of-good-pairs](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/1512-number-of-good-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/3875-construct-uniform-parity-array-i) |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ramasai88/LeetCode_Daily_Progress/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
